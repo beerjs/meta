@@ -24,6 +24,10 @@ a great way is to open an issue, or browse through some of the repos from other 
 
 all events, activities, and internet spaces which bear the beer.js name are subject to the [Citizen Code of Conduct](http://citizencodeofconduct.org/). simply stated, harassment of any form will not be tolerated and should be reported. please drink responsibly and act in a way that honors the community values of respect and mutual enrichment which we share.
 
+## a note about beer
+
+beer.js is about creating social spaces to strengthen software communities. there is no requirement to drink to participate.
+
 ## contact
 
 to the extent that anyone "runs" beerjs, it's these folks:
