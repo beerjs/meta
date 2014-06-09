@@ -28,6 +28,9 @@ all events, activities, and internet spaces which bear the beer.js name are subj
 
 beer.js is about creating social spaces to strengthen software communities. there is no requirement to drink to participate.
 
+## why organize on Github?
+See this thread from a local chapter: https://github.com/beerjs/abq/issues/6
+
 ## contact
 
 to the extent that anyone "runs" beerjs, it's these folks:
