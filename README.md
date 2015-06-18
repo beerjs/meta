@@ -24,7 +24,7 @@ a great way is to open an issue, or browse through some of the repos from other 
 
 ## code of conduct
 
-all events, activities, and internet spaces which bear the beer.js name are subject to the [Citizen Code of Conduct](http://citizencodeofconduct.org/). simply stated, harassment of any form will not be tolerated and should be reported. please drink responsibly and act in a way that honors the community values of respect and mutual enrichment which we share.
+all events, activities, and internet spaces which bear the beer.js name are subject to the [Citizen Code of Conduct](http://citizencodeofconduct.org/). simply stated, harassment of any form will not be tolerated and should be reported to your local organizer or to jason@denizac.org. please drink responsibly and act in a way that honors the community values of respect and mutual enrichment which we share.
 
 ## a note about beer
 
@@ -41,6 +41,6 @@ to the extent that anyone "runs" beerjs, it's these folks:
 - @cramforce, jsconfeu
 - @jden, random internet citizen
 
-The best way to get in touch with one of us is through the issues on this repo.
+The best way to get in touch with one of us is through the issues on this repo. @jden can also be reached by email, jason@denizac.org
 
 cheers & beers :beers:
