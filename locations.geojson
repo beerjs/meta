@@ -1,4 +1,7 @@
 {"features":[
+  {"id":"granada","properties":{"location":"Granada, SPAIN","name":"granada","admins":"vrivas, jj",
+  "geo_longitude":-3.6008282,"geo_latitude":37.186622,"url":"https://github.com/beerjs/granada"},
+  "type":"Feature","geometry":{"type":"Point","coordinates":[-3.6008282, 37.186622]}}, 
   {"id":"jaen","properties":{"location":"Jaen, SPAIN","name":"jaen","admins":"vrivas",
   "geo_longitude":-3.7820755,"geo_latitude":37.7898239,"url":"https://github.com/beerjs/jaen"},
   "type":"Feature","geometry":{"type":"Point","coordinates":[-3.7820755,37.7898239]}},
