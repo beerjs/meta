@@ -1,4 +1,7 @@
 {"features":[
+  {"id":"santiago","properties":{"location":"Santiago, CHILE","name":"santiago","admins":"juanbrujo",
+  "geo_longitude":-70.629831,"geo_latitude":-33.472788,"url":"https://github.com/beerjs/santiago"},
+  "type":"Feature","geometry":{"type":"Point","coordinates":[-70.629831,-33.472788]}},
   {"id":"jaen","properties":{"location":"Jaen, SPAIN","name":"jaen","admins":"vrivas",
   "geo_longitude":-3.7820755,"geo_latitude":37.7898239,"url":"https://github.com/beerjs/jaen"},
   "type":"Feature","geometry":{"type":"Point","coordinates":[-3.7820755,37.7898239]}},
