@@ -39,8 +39,10 @@ to the extent that anyone "runs" beerjs, it's these folks:
 
 - @voodootikigod, jsconf
 - @cramforce, jsconfeu
-- @jden, random internet citizen
+- @jordanpapaleo
 
-The best way to get in touch with one of us is through the issues on this repo. @jden can also be reached by email, jason@denizac.org
+The best way to get in touch with one of us is through the issues on this repo. 
+
+@jordanpapaleo can also be reached by email, papaleowebdev@gmail.com
 
 cheers & beers :beers:
