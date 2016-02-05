@@ -18,6 +18,10 @@ Anyone can do it- why not you? Please open an issue on this repo and clearly sta
 
 Once you have a repo created, encourage people in your town to "watch" the repo to subscribe to notifications for issues on github. Issues are a great way to propose, plan, and remind people of upcoming events. Filling out a readme, description, and optional URL to your repo will help people know what's going on and want to come to your cool event. Feel free to borrow text and formatting from other beer.js repos.
 
+## [beerjs is on Slack](https://beerjs.slack.com)
+
+We have a slack team now! At somepoint you will be able self invite but until then just post your email in a comment to this [issue](https://github.com/beerjs/meta/issues/51) and you will get added to the team.  You can then invite whoever you want to it.  Each city is encouraged to create their own channel.
+
 ## get help organizing
 
 a great way is to open an issue, or browse through some of the repos from other cities to see what they're up to.
