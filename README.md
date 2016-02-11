@@ -8,6 +8,8 @@ for example, to ask for the creation of a new repo for your local chapter of Bee
 
 We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
 
+Also, you can [chat with us on slack](https://beerjs-slack-invite.herokuapp.com/)!
+
 ## fork a beerjs in your city
 
 Anyone can do it- why not you? Please open an issue on this repo and clearly state:
