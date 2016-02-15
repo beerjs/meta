@@ -39,6 +39,9 @@ beer.js is about creating social spaces to strengthen software communities. ther
 ## why organize on Github?
 See this thread from a local chapter: https://github.com/beerjs/abq/issues/6
 
+## Stickers
+Honestly, who doesn't love a good sticker.  Right now stickers are a self serve process.  We have a [repo](https://github.com/beerjs/assets) for all sorts of sticker assets and instructions about how to proceed.
+
 ## contact
 
 to the extent that anyone "runs" beerjs, it's these folks:
