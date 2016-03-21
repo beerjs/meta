@@ -48,7 +48,7 @@ to the extent that anyone "runs" beerjs, it's these folks:
 
 - @voodootikigod, jsconf
 - @cramforce, jsconfeu
-- @jordanpapaleo
+- @jordanpapaleo, hmmmm... nice guy or something
 
 The best way to get in touch with one of us is through the issues on this repo. 
 
