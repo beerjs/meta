@@ -26,21 +26,23 @@ We have a slack team now! Join it [here](https://beerjs-slack-invite.herokuapp.c
 
 ## get help organizing
 
-a great way is to open an issue, or browse through some of the repos from other cities to see what they're up to.
+A great way is to open an issue, or browse through some of the repos from other cities to see what they're up to.
 
 ## code of conduct
 
-all events, activities, and internet spaces which bear the beer.js name are subject to the [Citizen Code of Conduct](http://citizencodeofconduct.org/). simply stated, harassment of any form will not be tolerated and should be reported to your local organizer or to jason@denizac.org. please drink responsibly and act in a way that honors the community values of respect and mutual enrichment which we share.
+All events, activities, and internet spaces which bear the beer.js name are subject to the [Citizen Code of Conduct](http://citizencodeofconduct.org/). Simply stated, harassment of any form will not be tolerated and should be reported to your local organizer or to papaleowebdev@gmail.com. Please drink responsibly and act in a way that honors the community values of respect and mutual enrichment which we share.
 
 ## a note about beer
 
-beer.js is about creating social spaces to strengthen software communities. there is no requirement to drink to participate.
+beer.js is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.
 
 ## why organize on Github?
 See this thread from a local chapter: https://github.com/beerjs/abq/issues/6
 
 ## stickers
-Honestly, who doesn't love a good sticker.  Right now stickers are a self serve process.  We have a [repo](https://github.com/beerjs/assets) for all sorts of sticker assets and instructions about how to proceed.
+Honestly, who doesn't love a good sticker.  Right now stickers are a self serve process through [Sticker Mule](https://www.stickermule.com/marketplace/11293-beerjs)
+
+You get huge discounts as the quantity goes up.  All sticker credits from sales will go back into more stickers for BeerJS.  Hopefully we will be able to send stickers to people at some point for **FREE**.  Just a thought, maybe find a sponsor who would like to drop $100 on stickers for your chapter.  People are willing to do this, believe me.
 
 ## contact
 
@@ -48,9 +50,9 @@ to the extent that anyone "runs" beerjs, it's these folks:
 
 - @voodootikigod, jsconf
 - @cramforce, jsconfeu
-- @jordanpapaleo, hmmmm... nice guy or something
+- @jordanpapaleo, student, teacher, coder
 
-The best way to get in touch with one of us is through the issues on this repo. 
+The best way to get in touch with one of us is through the issues on this repo.
 
 @jordanpapaleo can also be reached by email, papaleowebdev@gmail.com
 
