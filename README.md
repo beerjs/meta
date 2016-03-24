@@ -8,6 +8,8 @@ for example, to ask for the creation of a new repo for your local chapter of Bee
 
 We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
 
+Also, you can [chat with us on slack](https://beerjs-slack-invite.herokuapp.com/)!
+
 ## fork a beerjs in your city
 
 Anyone can do it- why not you? Please open an issue on this repo and clearly state:
@@ -17,6 +19,10 @@ Anyone can do it- why not you? Please open an issue on this repo and clearly sta
 
 
 Once you have a repo created, encourage people in your town to "watch" the repo to subscribe to notifications for issues on github. Issues are a great way to propose, plan, and remind people of upcoming events. Filling out a readme, description, and optional URL to your repo will help people know what's going on and want to come to your cool event. Feel free to borrow text and formatting from other beer.js repos.
+
+## [beerjs is on Slack](https://beerjs.slack.com)
+
+We have a slack team now! Join it [here](https://beerjs-slack-invite.herokuapp.com/)  Each city is encouraged to create their own channel.
 
 ## get help organizing
 
@@ -33,13 +39,16 @@ beer.js is about creating social spaces to strengthen software communities. ther
 ## why organize on Github?
 See this thread from a local chapter: https://github.com/beerjs/abq/issues/6
 
+## stickers
+Honestly, who doesn't love a good sticker.  Right now stickers are a self serve process.  We have a [repo](https://github.com/beerjs/assets) for all sorts of sticker assets and instructions about how to proceed.
+
 ## contact
 
 to the extent that anyone "runs" beerjs, it's these folks:
 
 - @voodootikigod, jsconf
 - @cramforce, jsconfeu
-- @jordanpapaleo
+- @jordanpapaleo, hmmmm... nice guy or something
 
 The best way to get in touch with one of us is through the issues on this repo. 
 
