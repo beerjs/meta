@@ -64,5 +64,8 @@
   ,"type":"Feature","geometry":{"type":"Point","coordinates":[-122.3300624,47.6038321]}},
   {"id":"sofia","properties":{"location":"Sofia, Bulgaria","name":"sofia","admins":"mgechev",
   "geo_longitude":23.3230598,"geo_latitude":42.6977149,"url":"https://github.com/beerjs/sofia"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3230598,42.6977149]}}]
-,"type":"FeatureCollection"}
+  ,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3230598,42.6977149]}},
+  {"id":"kyiv","properties":{"location":"Kyiv, Ukraine","name":"kyiv","admins":"tyv, allfayn",
+  "geo_longitude":30.2525089,"geo_latitude":50.4021368,"url":"https://github.com/beerjs/kyiv"}
+  ,"type":"Feature","geometry":{"type":"Point","coordinates":[30.2525089,50.4021368]}}]
+ ,"type":"FeatureCollection"}
