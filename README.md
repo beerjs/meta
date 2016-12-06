@@ -47,9 +47,11 @@ Feel free to create a pull request if you have useful rsources for our group.
 See this thread from a local chapter: https://github.com/beerjs/abq/issues/6
 
 ## stickers
-Honestly, who doesn't love a good sticker.  Right now stickers are a self serve process through [Sticker Mule](https://www.stickermule.com/marketplace/11293-beerjs)
+Honestly, who doesn't love a good sticker.  This is a great option if you want to buy a couple of stickers: [BeerJS Sticker](https://www.stickermule.com/marketplace/11293-beerjs)
 
-You get huge discounts as the quantity goes up.  All sticker credits from sales will go back into more stickers for BeerJS.  Hopefully we will be able to send stickers to people at some point for **FREE**.  Just a thought, maybe find a sponsor who would like to drop $100 on stickers for your chapter.  People are willing to do this, believe me.
+There is another option if you run your local BeerJS events.  [Sticker Mule](https://www.stickermule.com) would like to support you, your efforts, and help our community grow.  You will need to email [Justin Dorfman](mailto:jdorfman@stickermule.com), the Director of Developer Relations and he will help you out big time.
+
+Huge thank you to [Sticker Mule](https://www.stickermule.com)
 
 ## contact
 
