@@ -53,6 +53,8 @@ There is another option if you run your local BeerJS events.  [Sticker Mule](htt
 
 Huge thank you to [Sticker Mule](https://www.stickermule.com)
 
+<a href="https://www.stickermule.com" target="_blank"><img src="assets/stickermule.png"></a>
+
 ## contact
 
 to the extent that anyone "runs" beerjs, it's these folks:
