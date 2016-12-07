@@ -51,9 +51,8 @@ Honestly, who doesn't love a good sticker.  This is a great option if you want t
 
 There is another option if you run your local BeerJS events.  [Sticker Mule](https://www.stickermule.com) would like to support you, your efforts, and help our community grow.  You will need to email [Justin Dorfman](mailto:jdorfman@stickermule.com), the Director of Developer Relations and he will help you out big time.
 
-Huge thank you to [Sticker Mule](https://www.stickermule.com)
-
-<a href="https://www.stickermule.com" target="_blank"><img src="assets/stickermule.png"></a>
+Huge thank you to:
+<a href="https://www.stickermule.com"><img src="assets/stickermule.png"></a>
 
 ## contact
 
