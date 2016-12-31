@@ -1,0 +1,37 @@
+{
+  "name": "beerjs-meta",
+  "version": "1.0.0",
+  "description": "the repo behind the beerjs repos",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test:watch": "./node_modules/.bin/jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beerjs/meta.git"
+  },
+  "author": "Jordan Papaleo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beerjs/meta/issues"
+  },
+  "homepage": "https://github.com/beerjs/meta#readme",
+  "engines": {
+    "node": "6.3.1",
+    "npm": "3.10.7"
+  },
+  "jest": {
+    "transform": {
+      ".*": "<rootDir>/node_modules/babel-jest"
+    },
+    "collectCoverage": true
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "enzyme": "2.7.0",
+    "jest": "18.1.0",
+    "jest-cli": "18.1.0",
+    "standard": "8.6.0"
+  }
+}

@@ -1,0 +1,5 @@
+language: node_js
+node_js:
+  - "6"
+
+bundler_args: --retry 1
