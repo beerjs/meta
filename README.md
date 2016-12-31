@@ -1,4 +1,4 @@
-meta
+meta  [![Build Status](https://travis-ci.org/beerjs/meta.svg?branch=master)](https://travis-ci.org/beerjs/meta)
 ====
 *the repo behind the repos*
 
