@@ -67,5 +67,8 @@
   ,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3230598,42.6977149]}},
   {"id":"kyiv","properties":{"location":"Kyiv, Ukraine","name":"kyiv","admins":"tyv, allfayn",
   "geo_longitude":30.2525089,"geo_latitude":50.4021368,"url":"https://github.com/beerjs/kyiv"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[30.2525089,50.4021368]}}]
+  ,"type":"Feature","geometry":{"type":"Point","coordinates":[30.2525089,50.4021368]}},
+  {"id":"moscow","properties":{"location":"Moscow, Russian Federation","name":"moscow","admins":"chicoxyzzy, lolmaus, mishk0, vslinko",
+  "geo_longitude":37.6154491,"geo_latitude":55.7514045,"url":"https://github.com/beerjs/moscow"}
+  ,"type":"Feature","geometry":{"type":"Point","coordinates":[37.6154491,55.7514045]}}]
  ,"type":"FeatureCollection"}
