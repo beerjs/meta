@@ -16,7 +16,7 @@ Anyone can do it- why not you? Please open an issue on this repo and clearly sta
 - **the github usernames of everyone who should be an admin on the repo**. we find that having at least 2 is best, but if it's just you, that's fine for now.
 - **the name of the repo**. this becomes the url slug, eg `beerjs/foo`. if your city has a short name, like an airport code, that's fine. whatever you like that's still recognizable as your city.
 - **bonus: gifs or emoji** are always welcome
-- we will try to get you setup within in a couple of days.  Sometimes it may take a little longer as this is us giving time to the JS community.  Please have a little patience if things do not happen as fast as you want.  Its is totally ok to ask for an update in the comments or contact Jordan on Slack :)
+- we will try to get you setup within in a couple of days.  Sometimes it may take a little longer as this is us giving time to the JS community.  Please have a little patience if things do not happen as fast as you want.  It's totally ok to ask for an update in the comments or contact Jordan on Slack :)
 
 
 Once you have a repo created, encourage people in your town to "watch" the repo to subscribe to notifications for issues on github. Issues are a great way to propose, plan, and remind people of upcoming events. Filling out a readme, description, and optional URL to your repo will help people know what's going on and want to come to your cool event. Feel free to borrow text and formatting from other beer.js repos.
