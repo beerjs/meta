@@ -1,4 +1,7 @@
 {"features":[
+  {"id":"teresina","properties":{ "location":"Teresina, Piaui - Brazil","name":"teresina","admins":"italobrasiil",
+   "geo_longitude":-42.803760,"geo_latitude":-5.092011,"url":"https://github.com/beerjs/teresina"},
+   "type":"Feature","geometry":{ "type":"Point","coordinates":[-42.803760,-5.092011]}},
   {"id":"santiago","properties":{"location":"Santiago, CHILE","name":"santiago","admins":"juanbrujo",
   "geo_longitude":-70.629831,"geo_latitude":-33.472788,"url":"https://github.com/beerjs/santiago"},
   "type":"Feature","geometry":{"type":"Point","coordinates":[-70.629831,-33.472788]}},
