@@ -57,14 +57,16 @@ Huge thank you to:
 
 ## contact
 
-to the extent that anyone "runs" beerjs, it's these folks:
+many thanks to the people that started beerjs.
 
 - @voodootikigod, jsconf
 - @cramforce, jsconfeu
-- @jordanpapaleo, student, teacher, coder
 
-The best way to get in contact is with someone is on ouf Slack channel.
+To the extent that anyone "runs" beerjs, it's these folks:
 
-@jordanpapaleo can also be reached by email, papaleowebdev@gmail.com
+- <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> student, teacher, coder ([Github @jordanpapaleo](https://github.com/jordanpapaleo))
+
+
+@jordanpapaleo can also be reached by email, 
 
 cheers & beers :beers:
