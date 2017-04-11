@@ -63,7 +63,7 @@ to the extent that anyone "runs" beerjs, it's these folks:
 - @cramforce, jsconfeu
 - @jordanpapaleo, student, teacher, coder
 
-The best way to get in touch with one of us is through the issues on this repo.
+The best way to get in contact is with someone is on ouf Slack channel.
 
 @jordanpapaleo can also be reached by email, papaleowebdev@gmail.com
 
