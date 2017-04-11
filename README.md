@@ -64,9 +64,8 @@ many thanks to the people that started beerjs.
 
 To the extent that anyone "runs" beerjs, it's these folks:
 
-- <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a> student, teacher, coder ([Github @jordanpapaleo](https://github.com/jordanpapaleo))
+- <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a>, student, teacher, coder ([Github @jordanpapaleo](https://github.com/jordanpapaleo))
 
-
-@jordanpapaleo can also be reached by email, 
+Slack is the best way to contact Jordan.
 
 cheers & beers :beers:
