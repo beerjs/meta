@@ -457,6 +457,25 @@
       }
     },
     {
+      "id": "novosibirsk",
+      "properties": {
+        "location": "Novosibirsk, Russian Federation",
+        "name": "novosibirsk",
+        "admins": "gordey4doronin, dkandrov",
+        "geo_longitude": 82.9210444,
+        "geo_latitude": 55.026229,
+        "url": "https://github.com/beerjs/novosibirsk"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9210444,
+          55.026229
+        ]
+      }
+    },
+    {
       "id": "moscow",
       "properties": {
         "location": "Moscow, Russian Federation",
