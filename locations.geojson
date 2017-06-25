@@ -1,77 +1,480 @@
-{"features":[
-  {"id":"teresina","properties":{ "location":"Teresina, Piaui - Brazil","name":"teresina","admins":"italobrasiil",
-   "geo_longitude":-42.803760,"geo_latitude":-5.092011,"url":"https://github.com/beerjs/teresina"},
-   "type":"Feature","geometry":{ "type":"Point","coordinates":[-42.803760,-5.092011]}},
-  {"id":"santiago","properties":{"location":"Santiago, CHILE","name":"santiago","admins":"juanbrujo",
-  "geo_longitude":-70.629831,"geo_latitude":-33.472788,"url":"https://github.com/beerjs/santiago"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-70.629831,-33.472788]}},
-  {"id":"bogota","properties":{"location":"Bogota, COLOMBIA","name":"bogota","admins":"maasencioh",
-  "geo_longitude":-74.082818,"geo_latitude":4.637232,"url":"https://github.com/beerjs/bogota"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-74.082818,4.637232]}},
-  {"id":"jaen","properties":{"location":"Jaen, SPAIN","name":"jaen","admins":"vrivas",
-  "geo_longitude":-3.7820755,"geo_latitude":37.7898239,"url":"https://github.com/beerjs/jaen"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-3.7820755,37.7898239]}},
-  {"id":"sf","properties":{"location":"San Francisco, CA, USA","name":"sf","admins":"derek",
-  "geo_longitude":-122.419199,"geo_latitude":37.7789601,"url":"https://github.com/beerjs/sf"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-122.419199,37.7789601]}},
-  {"id":"tahoe","properties":{"location":"Truckee, CA, USA","name":"tahoe","admins":"jordanpapaleo",
-  "geo_longitude":-120.148205,"geo_latitude":39.316106,"url":"https://github.com/beerjs/tahoe"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-120.148205,39.316106]}},
-  {"id":"phx","properties":{"location":"Phoenix, AZ, USA","name":"phx","admins":"monteslu, phated",
-  "geo_longitude":-112.0740374,"geo_latitude":33.4483772,"url":"https://github.com/beerjs/phx"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-112.0740374,33.4483772]}},
-  {"id":"pdx","properties":{"location":"Portland, OR, USA","name":"pdx","admins":"chrisdickinson, hackygolucky",
-  "geo_longitude":-122.6741949,"geo_latitude":45.5202471,"url":"https://github.com/beerjs/pdx"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-122.6741949,45.5202471]}},
-  {"id":"la","properties":{"location":"Los Angeles, CA, USA","name":"la","admins":"emkay, jxson, davidguttman, flores",
-  "geo_longitude":-118.2427025,"geo_latitude":34.0536781,"url":"https://github.com/beerjs/la"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-118.2427025,34.0536781]}},
-  {"id":"sd","properties":{"location":"San Diego, CA, USA","name":"sd","admins":"jstrimpel",
-  "geo_longitude":-117.21177,"geo_latitude":32.7469869,"url":"https://github.com/beerjs/sd"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-117.21177,32.7469869]}},
-  {"id":"paloalto","properties":{"location":"Palo Alto, CA, USA","name":"paloalto","admins":"potch",
-  "geo_longitude":-122.1634472,"geo_latitude":37.442156,"url":"https://github.com/beerjs/paloalto"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-122.1634472,37.442156]}},
-  {"id":"van","properties":{"location":"Vancouver, BC, Canada","name":"van","admins":"filmaj, notmatt",
-  "geo_longitude":-123.1333301,"geo_latitude":49.2499987,"url":"https://github.com/beerjs/van"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-123.1333301,49.2499987]}},
-  {"id":"mexicocity","properties":{"location":"Mexico City, Mexico","name":"mexicocity","admins":"jeduan, siedrix",
-  "geo_longitude":-99.1332102,"geo_latitude":19.4325301,"url":"https://github.com/beerjs/mexicocity"},
-  "type":"Feature","geometry":{"type":"Point","coordinates":[-99.1332102,19.4325301]}},
-  {"id":"nooga","properties":{"location":"Chattanooga, TN, USA","name":"nooga","admins":"andrunix, jden, noogageek",
-  "geo_longitude":-85.3096801,"geo_latitude":35.0456297,"url":"https://github.com/beerjs/nooga"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[-85.3096801,35.0456297]}},
-  {"id":"orf","properties":{"location":"Norfolk, VA, USA","name":"orf","admins":"voodootikigod, metaskills, bmf, tjwebb, shackbarth, lynnaloo, stanzheng",
-  "geo_longitude":-76.2573032494399,"geo_latitude":36.93083365,"url":"https://github.com/beerjs/orf"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[-76.2573032494399,36.93083365]}},
-  {"id":"abq","properties":{"location":"Albuquerque, NM, USA","name":"abq","admins":"brianarn, orbiteleven",
-  "geo_longitude":-106.6509851,"geo_latitude":35.0841034,"url":"https://github.com/beerjs/abq"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[-106.6509851,35.0841034]}},
-  {"id":"boise","properties":{"location":"Boise, ID, USA","name":"boise","admins":"blakedietz",
-  "geo_longitude":-116.2044429,"geo_latitude":43.615046,"url":"https://github.com/beerjs/boise"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[-116.2044429,43.615046]}},
-  {"id":"dc","properties":{"location":"Washington, DC, USA","name":"dc","admins":"asolove",
-  "geo_longitude":-77.0363716,"geo_latitude":38.8951148,"url":"https://github.com/beerjs/dc"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[-77.0363716,38.8951148]}},
-  {"id":"tahoe","properties":{"location":"Tahoe, CA, USA","name":"tahoe","admins":"breck421",
-  "geo_longitude":-117.8188893,"geo_latitude":33.6591716,"url":"https://github.com/beerjs/tahoe"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[-117.8188893,33.6591716]}},
-  {"id":"paris","properties":{"location":"Paris, France","name":"paris","admins":"mathrobin",
-  "geo_longitude":2.3521334,"geo_latitude":48.8565056,"url":"https://github.com/beerjs/paris"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[2.3521334,48.8565056]}},
-  {"id":"uy","properties":{"location":"Montevideo, Uruguay","name":"uy","admins":"pricco, rodrigoespinosa",
-  "geo_longitude":-56.1913569,"geo_latitude":-34.9059039,"url":"https://github.com/beerjs/uy"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[-56.1913569,-34.9059039]}},
-  {"id":"sea","properties":{"location":"Seattle, WA, USA","name":"sea","admins":"davidmfoley, doolittle",
-  "geo_longitude":-122.3300624,"geo_latitude":47.6038321,"url":"https://github.com/beerjs/sea"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[-122.3300624,47.6038321]}},
-  {"id":"sofia","properties":{"location":"Sofia, Bulgaria","name":"sofia","admins":"mgechev",
-  "geo_longitude":23.3230598,"geo_latitude":42.6977149,"url":"https://github.com/beerjs/sofia"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[23.3230598,42.6977149]}},
-  {"id":"kyiv","properties":{"location":"Kyiv, Ukraine","name":"kyiv","admins":"tyv, allfayn",
-  "geo_longitude":30.2525089,"geo_latitude":50.4021368,"url":"https://github.com/beerjs/kyiv"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[30.2525089,50.4021368]}},
-  {"id":"moscow","properties":{"location":"Moscow, Russian Federation","name":"moscow","admins":"chicoxyzzy, lolmaus, mishk0, vslinko",
-  "geo_longitude":37.6154491,"geo_latitude":55.7514045,"url":"https://github.com/beerjs/moscow"}
-  ,"type":"Feature","geometry":{"type":"Point","coordinates":[37.6154491,55.7514045]}}]
- ,"type":"FeatureCollection"}
+{
+  "features": [
+    {
+      "id": "teresina",
+      "properties": {
+        "location": "Teresina, Piaui - Brazil",
+        "name": "teresina",
+        "admins": "italobrasiil",
+        "geo_longitude": -42.803760,
+        "geo_latitude": -5.092011,
+        "url": "https://github.com/beerjs/teresina"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.803760,
+          -5.092011
+        ]
+      }
+    },
+    {
+      "id": "santiago",
+      "properties": {
+        "location": "Santiago, CHILE",
+        "name": "santiago",
+        "admins": "juanbrujo",
+        "geo_longitude": -70.629831,
+        "geo_latitude": -33.472788,
+        "url": "https://github.com/beerjs/santiago"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.629831,
+          -33.472788
+        ]
+      }
+    },
+    {
+      "id": "bogota",
+      "properties": {
+        "location": "Bogota, COLOMBIA",
+        "name": "bogota",
+        "admins": "maasencioh",
+        "geo_longitude": -74.082818,
+        "geo_latitude": 4.637232,
+        "url": "https://github.com/beerjs/bogota"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.082818,
+          4.637232
+        ]
+      }
+    },
+    {
+      "id": "jaen",
+      "properties": {
+        "location": "Jaen, SPAIN",
+        "name": "jaen",
+        "admins": "vrivas",
+        "geo_longitude": -3.7820755,
+        "geo_latitude": 37.7898239,
+        "url": "https://github.com/beerjs/jaen"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7820755,
+          37.7898239
+        ]
+      }
+    },
+    {
+      "id": "sf",
+      "properties": {
+        "location": "San Francisco, CA, USA",
+        "name": "sf",
+        "admins": "derek",
+        "geo_longitude": -122.419199,
+        "geo_latitude": 37.7789601,
+        "url": "https://github.com/beerjs/sf"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419199,
+          37.7789601
+        ]
+      }
+    },
+    {
+      "id": "tahoe",
+      "properties": {
+        "location": "Truckee, CA, USA",
+        "name": "tahoe",
+        "admins": "jordanpapaleo",
+        "geo_longitude": -120.148205,
+        "geo_latitude": 39.316106,
+        "url": "https://github.com/beerjs/tahoe"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.148205,
+          39.316106
+        ]
+      }
+    },
+    {
+      "id": "phx",
+      "properties": {
+        "location": "Phoenix, AZ, USA",
+        "name": "phx",
+        "admins": "monteslu, phated",
+        "geo_longitude": -112.0740374,
+        "geo_latitude": 33.4483772,
+        "url": "https://github.com/beerjs/phx"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0740374,
+          33.4483772
+        ]
+      }
+    },
+    {
+      "id": "pdx",
+      "properties": {
+        "location": "Portland, OR, USA",
+        "name": "pdx",
+        "admins": "chrisdickinson, hackygolucky",
+        "geo_longitude": -122.6741949,
+        "geo_latitude": 45.5202471,
+        "url": "https://github.com/beerjs/pdx"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6741949,
+          45.5202471
+        ]
+      }
+    },
+    {
+      "id": "la",
+      "properties": {
+        "location": "Los Angeles, CA, USA",
+        "name": "la",
+        "admins": "emkay, jxson, davidguttman, flores",
+        "geo_longitude": -118.2427025,
+        "geo_latitude": 34.0536781,
+        "url": "https://github.com/beerjs/la"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2427025,
+          34.0536781
+        ]
+      }
+    },
+    {
+      "id": "sd",
+      "properties": {
+        "location": "San Diego, CA, USA",
+        "name": "sd",
+        "admins": "jstrimpel",
+        "geo_longitude": -117.21177,
+        "geo_latitude": 32.7469869,
+        "url": "https://github.com/beerjs/sd"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.21177,
+          32.7469869
+        ]
+      }
+    },
+    {
+      "id": "paloalto",
+      "properties": {
+        "location": "Palo Alto, CA, USA",
+        "name": "paloalto",
+        "admins": "potch",
+        "geo_longitude": -122.1634472,
+        "geo_latitude": 37.442156,
+        "url": "https://github.com/beerjs/paloalto"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1634472,
+          37.442156
+        ]
+      }
+    },
+    {
+      "id": "van",
+      "properties": {
+        "location": "Vancouver, BC, Canada",
+        "name": "van",
+        "admins": "filmaj, notmatt",
+        "geo_longitude": -123.1333301,
+        "geo_latitude": 49.2499987,
+        "url": "https://github.com/beerjs/van"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1333301,
+          49.2499987
+        ]
+      }
+    },
+    {
+      "id": "mexicocity",
+      "properties": {
+        "location": "Mexico City, Mexico",
+        "name": "mexicocity",
+        "admins": "jeduan, siedrix",
+        "geo_longitude": -99.1332102,
+        "geo_latitude": 19.4325301,
+        "url": "https://github.com/beerjs/mexicocity"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1332102,
+          19.4325301
+        ]
+      }
+    },
+    {
+      "id": "nooga",
+      "properties": {
+        "location": "Chattanooga, TN, USA",
+        "name": "nooga",
+        "admins": "andrunix, jden, noogageek",
+        "geo_longitude": -85.3096801,
+        "geo_latitude": 35.0456297,
+        "url": "https://github.com/beerjs/nooga"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3096801,
+          35.0456297
+        ]
+      }
+    },
+    {
+      "id": "orf",
+      "properties": {
+        "location": "Norfolk, VA, USA",
+        "name": "orf",
+        "admins": "voodootikigod, metaskills, bmf, tjwebb, shackbarth, lynnaloo, stanzheng",
+        "geo_longitude": -76.2573032494399,
+        "geo_latitude": 36.93083365,
+        "url": "https://github.com/beerjs/orf"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2573032494399,
+          36.93083365
+        ]
+      }
+    },
+    {
+      "id": "abq",
+      "properties": {
+        "location": "Albuquerque, NM, USA",
+        "name": "abq",
+        "admins": "brianarn, orbiteleven",
+        "geo_longitude": -106.6509851,
+        "geo_latitude": 35.0841034,
+        "url": "https://github.com/beerjs/abq"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6509851,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "id": "boise",
+      "properties": {
+        "location": "Boise, ID, USA",
+        "name": "boise",
+        "admins": "blakedietz",
+        "geo_longitude": -116.2044429,
+        "geo_latitude": 43.615046,
+        "url": "https://github.com/beerjs/boise"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.2044429,
+          43.615046
+        ]
+      }
+    },
+    {
+      "id": "dc",
+      "properties": {
+        "location": "Washington, DC, USA",
+        "name": "dc",
+        "admins": "asolove",
+        "geo_longitude": -77.0363716,
+        "geo_latitude": 38.8951148,
+        "url": "https://github.com/beerjs/dc"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0363716,
+          38.8951148
+        ]
+      }
+    },
+    {
+      "id": "tahoe",
+      "properties": {
+        "location": "Tahoe, CA, USA",
+        "name": "tahoe",
+        "admins": "breck421",
+        "geo_longitude": -117.8188893,
+        "geo_latitude": 33.6591716,
+        "url": "https://github.com/beerjs/tahoe"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8188893,
+          33.6591716
+        ]
+      }
+    },
+    {
+      "id": "paris",
+      "properties": {
+        "location": "Paris, France",
+        "name": "paris",
+        "admins": "mathrobin",
+        "geo_longitude": 2.3521334,
+        "geo_latitude": 48.8565056,
+        "url": "https://github.com/beerjs/paris"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3521334,
+          48.8565056
+        ]
+      }
+    },
+    {
+      "id": "uy",
+      "properties": {
+        "location": "Montevideo, Uruguay",
+        "name": "uy",
+        "admins": "pricco, rodrigoespinosa",
+        "geo_longitude": -56.1913569,
+        "geo_latitude": -34.9059039,
+        "url": "https://github.com/beerjs/uy"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1913569,
+          -34.9059039
+        ]
+      }
+    },
+    {
+      "id": "sea",
+      "properties": {
+        "location": "Seattle, WA, USA",
+        "name": "sea",
+        "admins": "davidmfoley, doolittle",
+        "geo_longitude": -122.3300624,
+        "geo_latitude": 47.6038321,
+        "url": "https://github.com/beerjs/sea"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3300624,
+          47.6038321
+        ]
+      }
+    },
+    {
+      "id": "sofia",
+      "properties": {
+        "location": "Sofia, Bulgaria",
+        "name": "sofia",
+        "admins": "mgechev",
+        "geo_longitude": 23.3230598,
+        "geo_latitude": 42.6977149,
+        "url": "https://github.com/beerjs/sofia"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3230598,
+          42.6977149
+        ]
+      }
+    },
+    {
+      "id": "kyiv",
+      "properties": {
+        "location": "Kyiv, Ukraine",
+        "name": "kyiv",
+        "admins": "tyv, allfayn",
+        "geo_longitude": 30.2525089,
+        "geo_latitude": 50.4021368,
+        "url": "https://github.com/beerjs/kyiv"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.2525089,
+          50.4021368
+        ]
+      }
+    },
+    {
+      "id": "moscow",
+      "properties": {
+        "location": "Moscow, Russian Federation",
+        "name": "moscow",
+        "admins": "chicoxyzzy, lolmaus, mishk0, vslinko",
+        "geo_longitude": 37.6154491,
+        "geo_latitude": 55.7514045,
+        "url": "https://github.com/beerjs/moscow"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6154491,
+          55.7514045
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
