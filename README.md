@@ -64,7 +64,7 @@ many thanks to the people that started beerjs.
 
 To the extent that anyone "runs" beerjs, it's this guy:
 
-- [@jordanpapaleo](https://twitter.com/jordanpapaleo) Jordan Papaleo, student, teacher, coder
+- [@jordanpapaleo](https://twitter.com/jordanpapaleo) student, teacher, coder
 
 Feel free to DM me on Twitter and say Hi; its the best way to contact me.
 
