@@ -31,7 +31,7 @@ A great way is to open an issue, or browse through some of the repos from other 
 
 ## code of conduct
 
-All events, activities, and internet spaces which bear the beer.js name are subject to the [Citizen Code of Conduct](http://citizencodeofconduct.org/). Simply stated, harassment of any form will not be tolerated and should be reported to your local organizer or to papaleowebdev@gmail.com. Please drink responsibly and act in a way that honors the community values of respect and mutual enrichment which we share.
+All events, activities, and internet spaces which bear the beer.js name are subject to the [Citizen Code of Conduct](http://citizencodeofconduct.org/). Simply stated, harassment of any form will not be tolerated and should be reported to your local organizer or to [@jordanpapaleo](https://twitter.com/jordanpapaleo). Please drink responsibly and act in a way that honors the community values of respect and mutual enrichment which we share.
 
 ## a note about beer
 
@@ -62,10 +62,12 @@ many thanks to the people that started beerjs.
 - @voodootikigod, jsconf
 - @cramforce, jsconfeu
 
-To the extent that anyone "runs" beerjs, it's these folks:
+To the extent that anyone "runs" beerjs, it's this guy:
 
-- <a href="mailto:papaleowebdev@gmail.com">Jordan Papaleo</a>, student, teacher, coder ([Github @jordanpapaleo](https://github.com/jordanpapaleo))
+- [@jordanpapaleo](https://twitter.com/jordanpapaleo) Jordan Papaleo, student, teacher, coder
 
-Slack is the best way to contact Jordan.
+Feel free to DM me on Twitter and say Hi; its the best way to contact me.
 
 cheers & beers :beers:
+
+Jordan
