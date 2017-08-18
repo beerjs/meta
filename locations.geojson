@@ -493,6 +493,25 @@
           55.7514045
         ]
       }
+    },
+    {
+      "id": "spb",
+      "properties": {
+        "location": "Saint Petersburg, Russian Federation",
+        "name": "spb",
+        "admins": "cakeinpanic, chudesnov, lekzd",
+        "geo_longitude": 30.313825,
+        "geo_latitude": 59.940405,
+        "url": "https://github.com/beerjs/spb"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.313825,
+          59.940405
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
