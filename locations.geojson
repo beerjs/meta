@@ -512,6 +512,25 @@
           59.940405
         ]
       }
+    },
+    {
+      "id": "ekb",
+      "properties": {
+        "location": "Yekaterinburg, Russian Federation",
+        "name": "ekb",
+        "admins": "evilj0e, partyordie",
+        "geo_longitude": 60.6122,
+        "geo_latitude": 56.8519,
+        "url": "https://github.com/beerjs/ekb"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.6122,
+          56.8519
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
