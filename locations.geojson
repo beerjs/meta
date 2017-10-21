@@ -531,6 +531,25 @@
           56.8519
         ]
       }
+    },
+    {
+      "id": "yaroslavl",
+      "properties": {
+        "location": "Yaroslavl, Russian Federation",
+        "name": "yaroslavl",
+        "admins": "xmalinov",
+        "geo_longitude": 39.893787,
+        "geo_latitude": 57.626569,
+        "url": "https://github.com/beerjs/yaroslavl"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.893787,
+          57.626569
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
