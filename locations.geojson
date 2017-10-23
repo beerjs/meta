@@ -550,6 +550,25 @@
           57.626569
         ]
       }
+    },
+    {
+      "id": "togliatti",
+      "properties": {
+        "location": "Togliatti, Russian Federation",
+        "name": "togliatti",
+        "admins": "elforastero, donrai, pbelyaev, smirnovw",
+        "geo_longitude": 49.3461000,
+        "geo_latitude": 53.5303000,
+        "url": "https://github.com/beerjs/togliatti"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3461000,
+          53.5303000
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
