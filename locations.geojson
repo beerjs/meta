@@ -343,25 +343,6 @@
       }
     },
     {
-      "id": "tahoe",
-      "properties": {
-        "location": "Tahoe, CA, USA",
-        "name": "tahoe",
-        "admins": "breck421",
-        "geo_longitude": -117.8188893,
-        "geo_latitude": 33.6591716,
-        "url": "https://github.com/beerjs/tahoe"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.8188893,
-          33.6591716
-        ]
-      }
-    },
-    {
       "id": "paris",
       "properties": {
         "location": "Paris, France",
