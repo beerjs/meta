@@ -98,19 +98,19 @@
     {
       "id": "tahoe",
       "properties": {
-        "location": "Truckee, CA, USA",
+        "location": "South Lake Tahoe, CA, USA",
         "name": "tahoe",
-        "admins": "jordanpapaleo",
-        "geo_longitude": -120.148205,
-        "geo_latitude": 39.316106,
+        "admins": "robertnealan, davepaola",
+        "geo_longitude":  -119.977635,
+        "geo_latitude": 38.940510,
         "url": "https://github.com/beerjs/tahoe"
       },
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.148205,
-          39.316106
+          -119.977635,
+          38.940510
         ]
       }
     },
