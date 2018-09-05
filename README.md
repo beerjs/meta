@@ -66,8 +66,6 @@ To the extent that anyone "runs" beerjs, it's this guy:
 
 - [@jordanpapaleo](https://twitter.com/jordanpapaleo)
 
-Feel free to DM me on Twitter and say Hi; its the best way to contact me.
+cheers & beers :beers:,
 
-cheers & beers :beers:
-
-Jordan
+BeerJS
