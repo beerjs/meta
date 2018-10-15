@@ -101,7 +101,7 @@
         "location": "South Lake Tahoe, CA, USA",
         "name": "tahoe",
         "admins": "robertnealan, davepaola",
-        "geo_longitude":  -119.977635,
+        "geo_longitude": -119.977635,
         "geo_latitude": 38.940510,
         "url": "https://github.com/beerjs/tahoe"
       },
@@ -567,6 +567,25 @@
         "coordinates": [
           88.3639,
           22.5726
+        ]
+      }
+    },
+    {
+      "id": "dnipro",
+      "properties": {
+        "location": "Dnipro, Ukraine",
+        "name": "Dnipro",
+        "admins": "Fer0x, akulov",
+        "geo_longitude": 35.046185,
+        "geo_latitude": 48.464718,
+        "url": "https://github.com/beerjs/dnipro"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.046185,
+          48.464718
         ]
       }
     }
