@@ -588,6 +588,25 @@
           48.464718
         ]
       }
+    },
+    {
+      "id": "argentina",
+      "properties": {
+        "location": "Córdoba, Argentina",
+        "name": "cordoba",
+        "admins": "mdottavio, brodanoel, homer0",
+        "geo_longitude": -64.1810,
+        "geo_latitude": -31.4135,
+        "url": "https://github.com/beerjs/cordoba"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1810,
+          -31.4135
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
