@@ -607,7 +607,26 @@
           -31.4135
         ]
       }
-    }
+    },
+    {
+          "id": "ryazan",
+          "properties": {
+            "location": "Ryazan, Russia",
+            "name": "Ryazan",
+            "admins": "ACIDKing, kitos, margalencia",
+            "geo_longitude": 39.7125857,
+            "geo_latitude": 54.6095418,
+            "url": "https://github.com/beerjs/ryazan"
+          },
+          "type": "Feature",
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              39.7125857,
+              54.6095418
+            ]
+          }
+        }
   ],
   "type": "FeatureCollection"
 }
