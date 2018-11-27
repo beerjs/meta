@@ -35,7 +35,7 @@ All events, activities, and internet spaces which bear the beer.js name are subj
 
 ## a note about beer
 
-beer.js is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.
+BeerJS is about creating social spaces to strengthen software communities. There is no requirement to drink to participate.
 
 ## tools to help you
 
