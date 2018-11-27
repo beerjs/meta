@@ -41,7 +41,7 @@ BeerJS is about creating social spaces to strengthen software communities. There
 
 Starting a JS community is not always easy.  Here are some [tools](https://github.com/beerjs/meta/blob/master/utils.md) to help you plan you events.
 
-Feel free to create a pull request if you have useful rsources for our group.
+Feel free to create a pull request if you have useful resources for our group.
 
 ## why organize on Github?
 See this thread from a local chapter: https://github.com/beerjs/abq/issues/6
