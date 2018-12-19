@@ -23,7 +23,7 @@ Once you have a repo created, encourage people in your town to "watch" the repo 
 
 ## [beerjs is on Slack](https://beerjs.slack.com)
 
-We have a slack team now! Join it [here](https://beerjs-slack-invite.herokuapp.com/)  Each city is encouraged to create their own channel.
+We have a slack team now! Join it [here](https://beerjs-slack-invite.herokuapp.com/). Each city is encouraged to create their own channel.
 
 ## get help organizing
 
