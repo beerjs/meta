@@ -626,7 +626,26 @@
               54.6095418
             ]
           }
-        }
+        },
+    {
+      "id": "bryansk",
+      "properties": {
+        "location": "Bryansk, Russia",
+        "name": "Bryansk",
+        "admins": "sattellite, temasmirnov",
+        "geo_longitude": 34.3639,
+        "geo_latitude": 53.2438,
+        "url": "https://github.com/beerjs/bryansk"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3639,
+          53.2438
+        ]
+      }
+    },
   ],
   "type": "FeatureCollection"
 }
