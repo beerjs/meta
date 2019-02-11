@@ -47,13 +47,14 @@ Feel free to create a pull request if you have useful resources for our group.
 See this thread from a local chapter: https://github.com/beerjs/abq/issues/6
 
 ## stickers
-Honestly, who doesn't love a good sticker.  This is a great option if you want to buy a couple of stickers: [BeerJS Sticker](https://www.stickermule.com/marketplace/11293-beerjs)
 
-There is another option if you run your local BeerJS events.  [Sticker Mule](https://www.stickermule.com) would like to support you, your efforts, and help our community grow.  You will need to email [Justin Dorfman](mailto:jdorfman@stickermule.com), the Director of Developer Relations and he will help you out big time.
+Honestly, who doesn't love a good sticker? Do you run your local BeerJS events? Sticker Mule would like to support you, your efforts, and help our community grow. You can [request sponsorship here](https://www.stickermule.com/sponsorship/request).
+
+If you just want to buy a couple of stickers: [BeerJS Sticker](https://www.stickermule.com/marketplace/11293-beerjs)
 
 Huge thank you to:
 
-<a href="https://www.stickermule.com"><img src="assets/stickermule.png"></a>
+<a href="https://www.stickermule.com/supports/BeerJS"><img src="assets/stickermule.png"></a>
 
 ## contact
 
