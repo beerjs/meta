@@ -8,7 +8,7 @@ for example, to ask for the creation of a new repo for your local chapter of Bee
 
 We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
 
-Also, you can [chat with us on slack](https://beers-slack-invite.herokuapp.com/invite)!
+Also, you can [chat with us on slack](https://beers-slack-invite.herokuapp.com)!
 
 ## fork a beerjs in your city
 
@@ -23,7 +23,7 @@ Once you have a repo created, encourage people in your town to "watch" the repo 
 
 ## [beerjs is on Slack](https://beerjs.slack.com)
 
-We have a slack team now! Join it [here](https://beers-slack-invite.herokuapp.com/invite. Each city is encouraged to create their own channel.
+We have a slack team now! Join it [here](https://beers-slack-invite.herokuapp.com). Each city is encouraged to create their own channel.
 
 ## get help organizing
 
