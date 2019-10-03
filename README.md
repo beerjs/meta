@@ -44,7 +44,27 @@ Starting a JS community is not always easy.  Here are some [tools](https://githu
 Feel free to create a pull request if you have useful resources for our group.
 
 ## why organize on Github?
+
 See this thread from a local chapter: https://github.com/beerjs/abq/issues/6
+
+## rules on donations (gentle suggestions)
+
+BeerJS is not an organization that generates any sort of income.  Its not a non profit either.  This makes funding events a little more tricky.  In no way does having a chapter mean that you need to fund everything out of your pocket.  It is encouraged to find partners to work with you in growing our community.  Partners can be locations for your events, beer vendors, `Sticker Mule`, local companies, etc.
+
+**Do this**
+
+The Tahoe branch met at a cowork location for free and a local micro brewery would donate beer every month to support our efforts.  None of those groups ever asked for something in return.  They were supporters of building commmunity.
+
+**Not this (totally made this up)**
+
+A company has agreed to provide beer *if* it has access to the email addresses for the members of your community. A recruiter has offered to buy pizza *if* you let them use a meetup as a recruitment platform.
+
+**Take away**
+
+- Recruiters are part of our community.  Its ok if they want buy pizza or something to support the community because people are looking for jobs.  They can mingle and network just like the rest of us.
+- Companies that want to give you a place to meet are wonderful because we need places to meet.
+- Groups that print stickers probono are awesome because we all love stickers.
+- **ANYONE** who offers something in exchange for something has alterior motives and needs to be avoided.  Do not owe anyone anything.
 
 ## stickers
 
