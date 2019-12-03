@@ -646,6 +646,25 @@
         ]
       }
     },
+    {
+      "id": "voronezh",
+      "properties": {
+        "location": "Voronezh, Russia",
+        "name": "Voronezh",
+        "admins": "aigoncharov, puzpuzpuz",
+        "geo_longitude": 39.2089,
+        "geo_latitude": 51.6755,
+        "url": "https://github.com/beerjs/voronezh"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2089,
+          51.6755
+        ]
+      }
+    },
   ],
   "type": "FeatureCollection"
 }
