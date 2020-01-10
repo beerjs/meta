@@ -665,6 +665,25 @@
         ]
       }
     },
+    {
+      "id": "nizhniynovgorod",
+      "properties": {
+        "location": "Nizhniy Novgorod, Russia",
+        "name": "Nizhniy Novgorod",
+        "admins": "mikhail-angelov, KovalevAnton",
+        "geo_longitude": 44.0059,
+        "geo_latitude": 56.3268,
+        "url": "https://github.com/beerjs/nizhniy-novgorod"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0059,
+          56.3268
+        ]
+      }
+    },
   ],
   "type": "FeatureCollection"
 }
