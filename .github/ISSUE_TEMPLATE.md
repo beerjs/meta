@@ -1,6 +1,6 @@
 # New Chapter Request
 
-What will you repo be named?
+Where will your community be located: city, state/province/etc, country?
 
 Who will be your admins?
 
