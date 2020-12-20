@@ -684,6 +684,25 @@
         ]
       }
     },
+    {
+      "id":"cochabamba",
+      "properties": {
+        "location": "Cochabamba, Bolivia",
+        "name": "Cochabamba",
+        "admins" "frukus, daddriel, beerjscbba, dark6010",
+        "geo_latitude": -17.371351785378515,
+        "geo_longitude": -66.14695342883599
+        "url": "https://github.com/beerjs/cochabamba"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.371351785378515,
+          -66.14695342883599
+        ]
+      }
+    },
   ],
   "type": "FeatureCollection"
 }
