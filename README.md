@@ -3,14 +3,13 @@ meta  [![Build Status](https://travis-ci.org/beerjs/meta.svg?branch=master)](htt
 *the repo behind the repos*
 
 
-Please create a Github Issue on this repository for anything related to BeerJS generally,
-for example, to ask for the creation of a new repo for your local chapter of BeerJS
+> Please create a Github Issue on this repository for anything related to BeerJS: new chapter requests, existing chapter updates,  etc.
 
 We use github (this website!) to discuss things. If you're not used to that, here's a [quick video intro](https://www.youtube.com/watch?v=KlrJVSJRUN4).
 
 Also, you can [chat with us on slack](https://beers-slack-invite.herokuapp.com)!
 
-## fork a beerjs in your city
+## Have a beerjs in your city
 
 Anyone can do it- why not you? Please open an issue on this repo and clearly state:
 - **the github usernames of everyone who should be an admin on the repo**. we find that having at least 2 is best, but if it's just you, that's fine for now.
