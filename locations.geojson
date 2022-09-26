@@ -703,6 +703,25 @@
         ]
       }
     },
+    {
+      "id": "limassol",
+      "properties": {
+        "location": "Limassol, Cyrpus",
+        "name": "Limassol",
+        "admins": "saitonakamura",
+        "geo_longitude": 34.6811374,
+        "geo_latitude": 33.0445997,
+        "url": "https://github.com/beerjs/limassol"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6811374,
+          33.0445997
+        ]
+      }
+    },
   ],
   "type": "FeatureCollection"
 }
