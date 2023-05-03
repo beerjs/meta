@@ -82,9 +82,10 @@ many thanks to the people that started beerjs.
 - @voodootikigod, jsconf
 - @cramforce, jsconfeu
 
-To the extent that anyone "runs" beerjs, it's this guy:
+To the extent that anyone "runs" beerjs, it's these guys:
 
 - [@jordanpapaleo](https://twitter.com/jordanpapaleo)
+- [@d_bozhinovski](https://twitter.com/d_bozhinovski)
 
 cheers & beers :beers:,
 
