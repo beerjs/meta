@@ -65,16 +65,6 @@ A company has agreed to provide beer *if* it has access to the email addresses f
 - Groups that print stickers probono are awesome because we all love stickers.
 - **ANYONE** who offers something in exchange for something has alterior motives and needs to be avoided.  Do not owe anyone anything.
 
-## stickers
-
-Honestly, who doesn't love a good sticker? Do you run your local BeerJS events? Sticker Mule would like to support you, your efforts, and help our community grow. You can [request sponsorship here](https://www.stickermule.com/sponsorship/request).
-
-If you just want to buy a couple of stickers: [BeerJS Sticker](https://www.stickermule.com/marketplace/11293-beerjs)
-
-Huge thank you to:
-
-<a href="https://www.stickermule.com/supports/BeerJS"><img src="assets/stickermule.png"></a>
-
 ## contact
 
 many thanks to the people that started beerjs.
