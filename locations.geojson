@@ -721,6 +721,25 @@
           33.0445997
         ]
       }
+    },
+    {
+      "id": "athens",
+      "properties": {
+        "location": "Athens, Greece",
+        "name": "Athens",
+        "admins": "pavlos163",
+        "geo_longitude": 23.727539,
+        "geo_latitude": 37.983810,
+        "url": "https://github.com/beerjs/athens"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.727539,
+          37.983810
+        ]
+      }
     }
   ],
   "type": "FeatureCollection"
