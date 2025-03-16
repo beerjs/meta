@@ -740,7 +740,25 @@
           37.983810
         ]
       }
-    }
+    },
+    {
+      "id": "sochi",
+      "properties": {
+        "location": "Sochi, Russia",
+        "name": "Sochi",
+        "admins": "bailaa",
+        "geo_longitude": 39.7203,
+        "geo_latitude": 43.5853,
+        "url": "https://github.com/beerjs/sochi"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7203,
+          43.5853
+        ]
+      }
   ],
   "type": "FeatureCollection"
 }
